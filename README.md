@@ -1,30 +1,30 @@
 # Aina Syakirah Porfolio
 # Data Scientist
 
-*Technical Skills*: Python, R, Tableau, MongoDB, Power BI
+**Technical Skills**: Python, R, Tableau, MongoDB, Power BI
 
-# Education
+## Education
 Cert., Data Science Program | University of Sains Malaysia (Feb 2024) 
 
 B.S., Civil Engineering & Structural | University of Malaysia (July 2028)
 
-# Projects
-Analysis of Job Postings for Entry-Level Professionals.
+## Projects
+Analysis of Job Postings for Entry-Level Professionals. Refer to my presentation []  
 
 [Publication]https://new.express.adobe.com/webpage/JplLumWCHTkfK 
 
 Analyzed job postings tailored for entry-level professionals. Offered insights based on the data to assist entry-level professionals in navigating the current job market. Identified high-demand skills across different industries and highlighted key areas for professionals to focus on. Also, use ARIMAX and ARIMA Models to forecast the changes in job postings over time.
 
-*Data Analysis*: Utilize Python and Tableau to visualize data to understand the present job market landscape.
+**Data Analysis**: Utilize Python and Tableau to visualize data to understand the present job market landscape.
 
 ![285d68dd-charts-1024x581](https://github.com/Bazz-B/Aina-Portfolio/assets/143477352/375980f8-da31-474b-9431-63dc92544703)
 
 
-*Data Modeling*: Employ SARIMAX and ARIMA models, comparing Mean Absolute Error (MAE) and Mean Squared Error (MSE) values for both approaches.
+**Data Modeling**: Employ SARIMAX and ARIMA models, comparing Mean Absolute Error (MAE) and Mean Squared Error (MSE) values for both approaches.
 
  ![1520243457625](https://github.com/Bazz-B/Aina-Portfolio/assets/143477352/3d38a30c-6a80-42a6-8ad9-e0ba55a37721)
 
-# Work Experience
+## Work Experience
 
 Project Executive @ IPM Professional Services (January 2023 - Present)
 
