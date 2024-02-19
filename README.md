@@ -35,3 +35,7 @@ QAQC Engineer @ Kapar Jaya Sdn Bhd (December 2021 - September 2022)
 
 Prepared and submitted method statement, material approval list, material incoming inspection, and detailed records of Project Quality Plan (PQP) and Inspection Test Plan (ITP).
 Developed a Quality Control Plan that includes testing and inspection of the drainage system and other quality control activities such as purchasing and receiving material.
+
+![desktop-wallpaper-consultancy-service-project-consultancy](https://github.com/Bazz-B/Aina-Portfolio/assets/143477352/1a20981d-f1f4-4056-9083-1cda026664e1)
+
+
