@@ -13,14 +13,14 @@ Analysis of Job Postings for Entry-Level Professionals. Refer to my presentation
 
 [Publication]https://new.express.adobe.com/webpage/JplLumWCHTkfK 
 
-Analyzed job postings tailored for entry-level professionals. Offered insights based on the data to assist entry-level professionals in navigating the current job market. Identified high-demand skills across different industries and highlighted key areas for professionals to focus on. Also, use ARIMAX and ARIMA Models to forecast the changes in job postings over time.
+Analyzed job postings tailored for entry-level professionals. Offered insights based on the data to assist entry-level professionals in navigating the current job market. Identified high-demand skills across different industries and highlighted key areas for professionals to focus on. Deploy ARIMA and SARIMA Models to forecast the changes in job postings over time.
 
 **Data Analysis**: Utilize Python and Tableau to visualize data to understand the present job market landscape.
 
 ![285d68dd-charts-1024x581](https://github.com/Bazz-B/Aina-Portfolio/assets/143477352/375980f8-da31-474b-9431-63dc92544703)
 
 
-**Data Modeling**: Employ SARIMAX and ARIMA models, comparing Mean Absolute Error (MAE) and Mean Squared Error (MSE) values for both approaches.
+**Data Modeling**: Employ ARIMA and SARIMA models, later comparing Mean Absolute Error (MAE) and Mean Squared Error (MSE) values for both approaches.
 
  ![1520243457625](https://github.com/Bazz-B/Aina-Portfolio/assets/143477352/3d38a30c-6a80-42a6-8ad9-e0ba55a37721)
 
