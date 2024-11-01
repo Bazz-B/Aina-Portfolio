@@ -28,8 +28,10 @@ Analyzed job postings tailored for entry-level professionals. Offered insights b
 
 1. Project Executive @ IPM Professional Services (January 2023 - Present)
 
-   Successfully managed KM/BP/EW/RD and renovation projects, demonstrating proficiency in handling multiple projects including factory, gas plant and housing.
-   Demonstrated time management and organizational skills with the ability to prioritize and manage multiple initiatives to meet strict deadlines, while ensuring high quality of work.
+• Oversee project management and development processes, ensuring clear and coordinated interpretation of design and construction drawings.
+• Liaise with relevant authorities to secure necessary project approvals within the scheduled time frame.
+• Collaborate with technical teams to ensure project completion and obtain development approval, including the Certificate of Completion and Compliance (CCC).
+• Facilitate effective communication between project teams, clients, and contractors to ensure smooth project execution.
 
 2. QAQC Engineer @ Kapar Jaya Sdn Bhd (December 2021 - September 2022)
 
